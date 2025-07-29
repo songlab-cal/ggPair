@@ -1,0 +1,171 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+A0A087WPR5	unreviewed	A0A087WPR5_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpn18	Mus musculus (Mouse)	289
+A0A0G2JEW5	unreviewed	A0A0G2JEW5_MOUSE	Protein tyrosine phosphatase, non-receptor type 23	Ptpn23	Mus musculus (Mouse)	249
+A0A0N4SUY2	unreviewed	A0A0N4SUY2_MOUSE	Protein tyrosine phosphatase, receptor type, O	Ptpro	Mus musculus (Mouse)	377
+A0A0R4J080	unreviewed	A0A0R4J080_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn14	Mus musculus (Mouse)	849
+A0A1B0GRH2	unreviewed	A0A1B0GRH2_MOUSE	Receptor-type tyrosine-protein phosphatase (EC 3.1.3.48)	Ptpre	Mus musculus (Mouse)	712
+A0A1B0GRT6	unreviewed	A0A1B0GRT6_MOUSE	Receptor-type tyrosine-protein phosphatase (EC 3.1.3.48)	Ptpre	Mus musculus (Mouse)	719
+A0A1W2P706	unreviewed	A0A1W2P706_MOUSE	Protein tyrosine phosphatase, receptor type, K	Ptprk	Mus musculus (Mouse)	282
+A0A1W2P7W3	unreviewed	A0A1W2P7W3_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprb	Mus musculus (Mouse)	2285
+A0A1W2P7Y1	unreviewed	A0A1W2P7Y1_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprk	Mus musculus (Mouse)	1471
+A0A2R8VHH6	unreviewed	A0A2R8VHH6_MOUSE	Protein tyrosine phosphatase, receptor type, A	Ptpra	Mus musculus (Mouse)	374
+A0A991ELE1	unreviewed	A0A991ELE1_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprg	Mus musculus (Mouse)	1442
+A0A9K3AWH9	unreviewed	A0A9K3AWH9_MOUSE	MCG113486	mCG_113486	Mus musculus (Mouse)	69
+A0A9K3AWS2	unreviewed	A0A9K3AWS2_MOUSE	MCG15292	mCG_15292	Mus musculus (Mouse)	414
+A1E2H6	unreviewed	A1E2H6_MOUSE	Lymphocyte common antigen	Ptprc	Mus musculus (Mouse)	140
+A2A8L5	reviewed	PTPRF_MOUSE	Receptor-type tyrosine-protein phosphatase F (EC 3.1.3.48) (Leukocyte common antigen related) (LAR)	Ptprf Lar	Mus musculus (Mouse)	1898
+A2ALK8	reviewed	PTN3_MOUSE	Tyrosine-protein phosphatase non-receptor type 3 (EC 3.1.3.48)	Ptpn3	Mus musculus (Mouse)	913
+A2AWF8	unreviewed	A2AWF8_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprj	Mus musculus (Mouse)	1164
+A2AWF9	unreviewed	A2AWF9_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprj	Mus musculus (Mouse)	1299
+A3KN68	unreviewed	A3KN68_MOUSE	Protein tyrosine phosphatase, receptor type, N polypeptide 2	Ptprn2	Mus musculus (Mouse)	1001
+A6MDD2	unreviewed	A6MDD2_MOUSE	Protein tyrosine phosphatase receptor type N (Protein tyrosine phosphatase, receptor type, N)	Ptprn	Mus musculus (Mouse)	981
+B0V2N1	reviewed	PTPRS_MOUSE	Receptor-type tyrosine-protein phosphatase S (R-PTP-S) (EC 3.1.3.48) (PTPNU-3) (Receptor-type tyrosine-protein phosphatase sigma) (R-PTP-sigma)	Ptprs	Mus musculus (Mouse)	1907
+B1AQN2	unreviewed	B1AQN2_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprt	Mus musculus (Mouse)	1454
+B1AUH1	reviewed	PTPRU_MOUSE	Receptor-type tyrosine-protein phosphatase U (R-PTP-U) (EC 3.1.3.48) (Ftp-1) (Pancreatic carcinoma phosphatase 2) (PCP-2) (Protein-tyrosine phosphatase-lamda) (PTP-lambda) (PTPlambda) (Receptor-type protein-tyrosine phosphatase psi) (R-PTP-psi)	Ptpru Pcp2 Ptpf	Mus musculus (Mouse)	1446
+B2RR29	unreviewed	B2RR29_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpn7	Mus musculus (Mouse)	359
+B2RRF0	unreviewed	B2RRF0_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprk	Mus musculus (Mouse)	1445
+B2RU80	reviewed	PTPRB_MOUSE	Receptor-type tyrosine-protein phosphatase beta (Protein-tyrosine phosphatase beta) (R-PTP-beta) (EC 3.1.3.48) (Vascular endothelial protein tyrosine phosphatase) (VE-PTP)	Ptprb	Mus musculus (Mouse)	1998
+B2RXS8	unreviewed	B2RXS8_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprz1	Mus musculus (Mouse)	1463
+B7ZNE1	unreviewed	B7ZNE1_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpn7	Mus musculus (Mouse)	352
+B9EJA3	unreviewed	B9EJA3_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1508
+B9EKR1	reviewed	PTPRZ_MOUSE	Receptor-type tyrosine-protein phosphatase zeta (R-PTP-zeta) (EC 3.1.3.48)	Ptprz1	Mus musculus (Mouse)	2312
+D3Z6W2	unreviewed	D3Z6W2_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn2	Mus musculus (Mouse)	363
+E9PVJ6	unreviewed	E9PVJ6_MOUSE	Protein tyrosine phosphatase, receptor type, O	Ptpro	Mus musculus (Mouse)	405
+E9PVW8	unreviewed	E9PVW8_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1506
+E9PXS4	unreviewed	E9PXS4_MOUSE	Protein tyrosine phosphatase 4a3	Ptp4a3	Mus musculus (Mouse)	154
+E9Q0N2	reviewed	PTPRH_MOUSE	Receptor-type tyrosine-protein phosphatase H (R-PTP-H) (EC 3.1.3.48) (Stomach cancer-associated protein tyrosine phosphatase 1) (SAP-1)	Ptprh SAP-1	Mus musculus (Mouse)	971
+E9Q4I1	unreviewed	E9Q4I1_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpro	Mus musculus (Mouse)	1198
+E9Q4S7	unreviewed	E9Q4S7_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprj	Mus musculus (Mouse)	1350
+E9Q612	reviewed	PTPRO_MOUSE	Receptor-type tyrosine-protein phosphatase O (R-PTP-O) (EC 3.1.3.48) (Glomerular epithelial protein 1) (Protein tyrosine phosphatase U2) (PTP-U2) (PTPase U2)	Ptpro GLEPP1 Ptpn15 PTPU2	Mus musculus (Mouse)	1226
+E9Q7I7	unreviewed	E9Q7I7_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1505
+E9QAS3	unreviewed	E9QAS3_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpn22	Mus musculus (Mouse)	715
+F6S1X8	unreviewed	F6S1X8_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprf	Mus musculus (Mouse)	1332
+F6Y3V0	unreviewed	F6Y3V0_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprf	Mus musculus (Mouse)	1291
+G3UWK6	unreviewed	G3UWK6_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1505
+G3UX60	unreviewed	G3UX60_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1502
+G3UY75	unreviewed	G3UY75_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1890
+G3UYU6	unreviewed	G3UYU6_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1495
+G3UZU6	unreviewed	G3UZU6_MOUSE	Protein tyrosine phosphatase, non-receptor type 6	Ptpn6	Mus musculus (Mouse)	45
+G5E8B1	unreviewed	G5E8B1_MOUSE	Tyrosine-protein phosphatase non-receptor type 13 (EC 3.1.3.48)	Ptpn13	Mus musculus (Mouse)	2451
+G5E8J4	unreviewed	G5E8J4_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn21	Mus musculus (Mouse)	1176
+O35239	reviewed	PTN9_MOUSE	Tyrosine-protein phosphatase non-receptor type 9 (EC 3.1.3.48) (Protein-tyrosine phosphatase MEG2) (PTPase MEG2)	Ptpn9	Mus musculus (Mouse)	593
+O55082	reviewed	PTN20_MOUSE	Tyrosine-protein phosphatase non-receptor type 20 (EC 3.1.3.48) (Testis-specific tyrosine phosphatase)	Ptpn20 Typ	Mus musculus (Mouse)	426
+O70274	reviewed	TP4A2_MOUSE	Protein tyrosine phosphatase type IVA 2 (EC 3.1.3.48) (Protein-tyrosine phosphatase 4a2) (Protein-tyrosine phosphatase of regenerating liver 2) (PRL-2)	Ptp4a2 Prl2	Mus musculus (Mouse)	167
+O88570	unreviewed	O88570_MOUSE	Protein tyrosine phosphatase rPTP-GMC1	Ptprq	Mus musculus (Mouse)	24
+P06800	reviewed	PTPRC_MOUSE	Receptor-type tyrosine-protein phosphatase C (EC 3.1.3.48) (Leukocyte common antigen) (L-CA) (Lymphocyte antigen 5) (Ly-5) (T200) (CD antigen CD45)	Ptprc Ly-5	Mus musculus (Mouse)	1293
+P0C5E4	reviewed	PTPRQ_MOUSE	Phosphatidylinositol phosphatase PTPRQ (EC 3.1.3.-) (Receptor-type tyrosine-protein phosphatase Q) (PTP-RQ) (R-PTP-Q) (EC 3.1.3.48)	Ptprq	Mus musculus (Mouse)	2300
+P18052	reviewed	PTPRA_MOUSE	Receptor-type tyrosine-protein phosphatase alpha (Protein-tyrosine phosphatase alpha) (R-PTP-alpha) (EC 3.1.3.48) (LCA-related phosphatase) (PTPTY-28)	Ptpra Lrp Ptpa	Mus musculus (Mouse)	829
+P28828	reviewed	PTPRM_MOUSE	Receptor-type tyrosine-protein phosphatase mu (Protein-tyrosine phosphatase mu) (R-PTP-mu) (EC 3.1.3.48)	Ptprm Kiaa4044	Mus musculus (Mouse)	1452
+P29351	reviewed	PTN6_MOUSE	Tyrosine-protein phosphatase non-receptor type 6 (EC 3.1.3.48) (70Z-SHP) (Hematopoietic cell protein-tyrosine phosphatase) (PTPTY-42) (Protein-tyrosine phosphatase 1C) (PTP-1C) (SH-PTP1) (SHP-1)	Ptpn6 Hcp Hcph Ptp1C	Mus musculus (Mouse)	595
+P29352	reviewed	PTN22_MOUSE	Tyrosine-protein phosphatase non-receptor type 22 (EC 3.1.3.48) (Hematopoietic cell protein-tyrosine phosphatase 70Z-PEP) (PEST-domain phosphatase) (PEP)	Ptpn22 Ptpn8	Mus musculus (Mouse)	802
+P35235	reviewed	PTN11_MOUSE	Tyrosine-protein phosphatase non-receptor type 11 (EC 3.1.3.48) (Protein-tyrosine phosphatase SYP) (SH-PTP2) (SHP-2) (Shp2)	Ptpn11	Mus musculus (Mouse)	593
+P35821	reviewed	PTN1_MOUSE	Tyrosine-protein phosphatase non-receptor type 1 (EC 3.1.3.48) (Protein-tyrosine phosphatase 1B) (PTP-1B) (Protein-tyrosine phosphatase HA2) (PTP-HA2)	Ptpn1	Mus musculus (Mouse)	432
+P35822	reviewed	PTPRK_MOUSE	Receptor-type tyrosine-protein phosphatase kappa (Protein-tyrosine phosphatase kappa) (R-PTP-kappa) (EC 3.1.3.48)	Ptprk Ptpk	Mus musculus (Mouse)	1457
+P35831	reviewed	PTN12_MOUSE	Tyrosine-protein phosphatase non-receptor type 12 (EC 3.1.3.48) (MPTP-PEST) (Protein-tyrosine phosphatase P19) (P19-PTP)	Ptpn12	Mus musculus (Mouse)	775
+P49446	reviewed	PTPRE_MOUSE	Receptor-type tyrosine-protein phosphatase epsilon (Protein-tyrosine phosphatase epsilon) (R-PTP-epsilon) (EC 3.1.3.48)	Ptpre Ptpe	Mus musculus (Mouse)	699
+P54830	reviewed	PTN5_MOUSE	Tyrosine-protein phosphatase non-receptor type 5 (EC 3.1.3.48) (Neural-specific protein-tyrosine phosphatase) (Striatum-enriched protein-tyrosine phosphatase) (STEP)	Ptpn5	Mus musculus (Mouse)	541
+P70289	reviewed	PTPRV_MOUSE	Receptor-type tyrosine-protein phosphatase V (R-PTP-V) (EC 3.1.3.48) (Embryonic stem cell protein-tyrosine phosphatase) (ES cell phosphatase)	Ptprv Esp	Mus musculus (Mouse)	1705
+P80560	reviewed	PTPR2_MOUSE	Receptor-type tyrosine-protein phosphatase N2 (R-PTP-N2) (EC 3.1.3.-) (EC 3.1.3.48) (PTP IA-2beta) (Phogrin) (Protein tyrosine phosphatase-NP) (PTP-NP) [Cleaved into: IA-2beta71; IA-2beta64; IA-2beta60]	Ptprn2	Mus musculus (Mouse)	1001
+Q05909	reviewed	PTPRG_MOUSE	Receptor-type tyrosine-protein phosphatase gamma (Protein-tyrosine phosphatase gamma) (R-PTP-gamma) (EC 3.1.3.48)	Ptprg	Mus musculus (Mouse)	1442
+Q06180	reviewed	PTN2_MOUSE	Tyrosine-protein phosphatase non-receptor type 2 (Protein-tyrosine phosphatase PTP-2) (EC 3.1.3.48) (MPTP)	Ptpn2 Ptpt	Mus musculus (Mouse)	406
+Q2M4G8	unreviewed	Q2M4G8_MOUSE	Protein tyrosine phosphatase, non-receptor type 9	Ptpn9	Mus musculus (Mouse)	593
+Q3T9Y9	unreviewed	Q3T9Y9_MOUSE	Protein-tyrosine-phosphatase	Ptpn1	Mus musculus (Mouse)	249
+Q3TB93	unreviewed	Q3TB93_MOUSE	Protein-tyrosine-phosphatase	Ptpn1	Mus musculus (Mouse)	322
+Q3TE70	unreviewed	Q3TE70_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn6	Mus musculus (Mouse)	595
+Q3TEL9	unreviewed	Q3TEL9_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpn22	Mus musculus (Mouse)	134
+Q3TP78	unreviewed	Q3TP78_MOUSE	Uncharacterized protein	Ptprs	Mus musculus (Mouse)	447
+Q3TPD6	unreviewed	Q3TPD6_MOUSE	PTN13 phosphatase	Ptpn13	Mus musculus (Mouse)	282
+Q3TPN4	unreviewed	Q3TPN4_MOUSE	Receptor-type tyrosine-protein phosphatase mu	Ptprm	Mus musculus (Mouse)	342
+Q3TS01	unreviewed	Q3TS01_MOUSE	Uncharacterized protein	Ptprb	Mus musculus (Mouse)	381
+Q3TT24	unreviewed	Q3TT24_MOUSE	Uncharacterized protein	Ptprf	Mus musculus (Mouse)	339
+Q3TTT8	unreviewed	Q3TTT8_MOUSE	Ptpn13 protein	Ptpn13	Mus musculus (Mouse)	778
+Q3TU63	unreviewed	Q3TU63_MOUSE	Receptor-type tyrosine-protein phosphatase epsilon	Ptpre	Mus musculus (Mouse)	483
+Q3TZW9	unreviewed	Q3TZW9_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn1	Mus musculus (Mouse)	432
+Q3U382	unreviewed	Q3U382_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprc	Mus musculus (Mouse)	1130
+Q3UB72	unreviewed	Q3UB72_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn6	Mus musculus (Mouse)	595
+Q3UCJ0	unreviewed	Q3UCJ0_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn6	Mus musculus (Mouse)	597
+Q3UCZ5	unreviewed	Q3UCZ5_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn1	Mus musculus (Mouse)	432
+Q3UND4	unreviewed	Q3UND4_MOUSE	Protein tyrosine phosphatase receptor type G	Ptprg	Mus musculus (Mouse)	667
+Q3UNN3	unreviewed	Q3UNN3_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprs	Mus musculus (Mouse)	1106
+Q3US98	unreviewed	Q3US98_MOUSE	Tyrosine-protein phosphatase domain-containing protein		Mus musculus (Mouse)	170
+Q3UTI6	unreviewed	Q3UTI6_MOUSE	Receptor-type tyrosine-protein phosphatase-like N	Ptprn	Mus musculus (Mouse)	588
+Q3UU93	unreviewed	Q3UU93_MOUSE	Protein tyrosine phosphatase, receptor type, N polypeptide 2	Ptprn2	Mus musculus (Mouse)	934
+Q3UWY6	unreviewed	Q3UWY6_MOUSE	Uncharacterized protein	Ptpro	Mus musculus (Mouse)	93
+Q3UXF9	unreviewed	Q3UXF9_MOUSE	Uncharacterized protein	Ptp4a2	Mus musculus (Mouse)	145
+Q3V0J9	unreviewed	Q3V0J9_MOUSE	Receptor-type tyrosine-protein phosphatase F	Ptprf	Mus musculus (Mouse)	428
+Q3V1H5	unreviewed	Q3V1H5_MOUSE	Receptor-type tyrosine-protein phosphatase (EC 3.1.3.48)	Ptpre	Mus musculus (Mouse)	719
+Q3V2L7	unreviewed	Q3V2L7_MOUSE	Receptor-type tyrosine-protein phosphatase eta	Ptprj	Mus musculus (Mouse)	255
+Q3V315	unreviewed	Q3V315_MOUSE	Tyrosine-protein phosphatase domain-containing protein		Mus musculus (Mouse)	453
+Q3V3S2	unreviewed	Q3V3S2_MOUSE	Protein tyrosine phosphatase, receptor type, M	Ptprm	Mus musculus (Mouse)	383
+Q4FK37	unreviewed	Q4FK37_MOUSE	Ptp4a3 protein	Ptp4a3 pPtp4a3	Mus musculus (Mouse)	173
+Q4JFB8	unreviewed	Q4JFB8_MOUSE	Protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprf	Mus musculus (Mouse)	106
+Q4KML9	unreviewed	Q4KML9_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn21	Mus musculus (Mouse)	1176
+Q4U1Z0	unreviewed	Q4U1Z0_MOUSE	Protein tyrosine phosphatase (EC 3.1.3.48)	Ptprf LAR	Mus musculus (Mouse)	582
+Q4U213	unreviewed	Q4U213_MOUSE	Protein tyrosine phosphatase phi, insert-free variant	PTPphi	Mus musculus (Mouse)	287
+Q4U214	unreviewed	Q4U214_MOUSE	Protein tyrosine phosphatase phi, short insert variant	Ptpro PTPphi	Mus musculus (Mouse)	377
+Q571D4	unreviewed	Q571D4_MOUSE	MKIAA0387 protein	Ptprn2 mKIAA0387	Mus musculus (Mouse)	832
+Q571D5	unreviewed	Q571D5_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprt mKIAA0283	Mus musculus (Mouse)	1054
+Q5DTQ3	unreviewed	Q5DTQ3_MOUSE	MKIAA4064 protein	Ptprn mKIAA4064	Mus musculus (Mouse)	994
+Q5SPA9	unreviewed	Q5SPA9_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1254
+Q5U1U5	unreviewed	Q5U1U5_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprr	Mus musculus (Mouse)	535
+Q5U1U6	unreviewed	Q5U1U6_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprr	Mus musculus (Mouse)	656
+Q5U1U7	unreviewed	Q5U1U7_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprr	Mus musculus (Mouse)	330
+Q5U1U8	unreviewed	Q5U1U8_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprr	Mus musculus (Mouse)	369
+Q5U1V1	unreviewed	Q5U1V1_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprr	Mus musculus (Mouse)	535
+Q60673	reviewed	PTPRN_MOUSE	Receptor-type tyrosine-protein phosphatase-like N (R-PTP-N) (PTP IA-2) [Cleaved into: ICA512-N-terminal fragment (ICA512-NTF); ICA512-transmembrane fragment (ICA512-TMF); ICA512-cleaved cytosolic fragment (ICA512-CCF)]	Ptprn Ptp35	Mus musculus (Mouse)	979
+Q60998	unreviewed	Q60998_MOUSE	Protein tyrosine phosphatase phi, long insert variant	Ptpro PTPphi	Mus musculus (Mouse)	405
+Q61152	reviewed	PTN18_MOUSE	Tyrosine-protein phosphatase non-receptor type 18 (EC 3.1.3.48) (Fetal liver phosphatase 1) (FLP-1) (PTP-K1)	Ptpn18 Flp1 Ptpk1	Mus musculus (Mouse)	453
+Q61373	unreviewed	Q61373_MOUSE	Protein tyrosine phosphatase	Ptprj PTP-RL9	Mus musculus (Mouse)	361
+Q62130	reviewed	PTN14_MOUSE	Tyrosine-protein phosphatase non-receptor type 14 (EC 3.1.3.48) (Protein-tyrosine phosphatase PTP36)	Ptpn14	Mus musculus (Mouse)	1189
+Q62132	reviewed	PTPRR_MOUSE	Receptor-type tyrosine-protein phosphatase R (R-PTP-R) (EC 3.1.3.48) (Phosphotyrosine phosphatase 13) (Protein-tyrosine-phosphatase SL)	Ptprr Ptp13	Mus musculus (Mouse)	656
+Q62133	unreviewed	Q62133_MOUSE	Protein-tyrosine kinase	Ptpn3 ptpc1	Mus musculus (Mouse)	61
+Q62136	reviewed	PTN21_MOUSE	Tyrosine-protein phosphatase non-receptor type 21 (EC 3.1.3.48) (Protein-tyrosine phosphatase PTP-RL10)	Ptpn21	Mus musculus (Mouse)	1176
+Q63847	unreviewed	Q63847_MOUSE	Tissue-specific protein tyrosine phosphatase	Ptprs PTP	Mus musculus (Mouse)	154
+Q63848	unreviewed	Q63848_MOUSE	Tissue-specific protein tyrosine phosphatase	Ptpn11 PTP	Mus musculus (Mouse)	164
+Q64455	reviewed	PTPRJ_MOUSE	Receptor-type tyrosine-protein phosphatase eta (Protein-tyrosine phosphatase eta) (R-PTP-eta) (EC 3.1.3.48) (HPTP beta-like tyrosine phosphatase) (Protein-tyrosine phosphatase receptor type J) (R-PTP-J) (Susceptibility to colon cancer 1) (CD antigen CD148)	Ptprj Byp Scc1	Mus musculus (Mouse)	1238
+Q64487	reviewed	PTPRD_MOUSE	Receptor-type tyrosine-protein phosphatase delta (Protein-tyrosine phosphatase delta) (R-PTP-delta) (EC 3.1.3.48)	Ptprd	Mus musculus (Mouse)	1912
+Q64494	unreviewed	Q64494_MOUSE	Protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprs	Mus musculus (Mouse)	106
+Q64497	unreviewed	Q64497_MOUSE	Protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprb	Mus musculus (Mouse)	110
+Q64500	unreviewed	Q64500_MOUSE	Protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprn	Mus musculus (Mouse)	106
+Q64501	unreviewed	Q64501_MOUSE	Protein tyrosine phosphatase D28 (EC 3.1.3.48)		Mus musculus (Mouse)	42
+Q64502	unreviewed	Q64502_MOUSE	Protein tyrosine phosphatase (EC 3.1.3.48)	Ptpn4 mPTP MEG	Mus musculus (Mouse)	68
+Q64504	unreviewed	Q64504_MOUSE	Protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprv ptp SIWA	Mus musculus (Mouse)	108
+Q64512	reviewed	PTN13_MOUSE	Tyrosine-protein phosphatase non-receptor type 13 (EC 3.1.3.48) (PTP36) (Protein tyrosine phosphatase DPZPTP) (Protein tyrosine phosphatase PTP-BL) (Protein-tyrosine phosphatase RIP)	Ptpn13 Ptp14	Mus musculus (Mouse)	2453
+Q64696	unreviewed	Q64696_MOUSE	Protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprf	Mus musculus (Mouse)	108
+Q64730	unreviewed	Q64730_MOUSE	Protein-tyrosine-phosphatase		Mus musculus (Mouse)	1343
+Q68FL5	unreviewed	Q68FL5_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpro	Mus musculus (Mouse)	509
+Q68FM4	unreviewed	Q68FM4_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprm	Mus musculus (Mouse)	1486
+Q6NVE2	unreviewed	Q6NVE2_MOUSE	Protein tyrosine phosphatase, receptor type, N	Ptprn	Mus musculus (Mouse)	985
+Q6P3E6	unreviewed	Q6P3E6_MOUSE	Ptprn protein	Ptprn	Mus musculus (Mouse)	358
+Q6P4T4	unreviewed	Q6P4T4_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpro	Mus musculus (Mouse)	573
+Q6PB44	reviewed	PTN23_MOUSE	Tyrosine-protein phosphatase non-receptor type 23 (EC 3.1.3.48)	Ptpn23 Kiaa1471	Mus musculus (Mouse)	1692
+Q7TMG1	unreviewed	Q7TMG1_MOUSE	Ptpn21 protein	Ptpn21	Mus musculus (Mouse)	758
+Q80VN7	unreviewed	Q80VN7_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprb	Mus musculus (Mouse)	1102
+Q80W11	unreviewed	Q80W11_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpro	Mus musculus (Mouse)	508
+Q80WU9	unreviewed	Q80WU9_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpn5	Mus musculus (Mouse)	581
+Q8BJY4	unreviewed	Q8BJY4_MOUSE	Uncharacterized protein	Ptprz1	Mus musculus (Mouse)	301
+Q8BUM3	reviewed	PTN7_MOUSE	Tyrosine-protein phosphatase non-receptor type 7 (EC 3.1.3.48) (Hematopoietic protein-tyrosine phosphatase) (HEPTP)	Ptpn7	Mus musculus (Mouse)	359
+Q8BX26	unreviewed	Q8BX26_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpn7	Mus musculus (Mouse)	338
+Q8C6Q7	unreviewed	Q8C6Q7_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprc	Mus musculus (Mouse)	879
+Q8C819	unreviewed	Q8C819_MOUSE	Uncharacterized protein	Ptprk	Mus musculus (Mouse)	278
+Q8C922	unreviewed	Q8C922_MOUSE	Uncharacterized protein	Ptprd	Mus musculus (Mouse)	192
+Q8CC23	unreviewed	Q8CC23_MOUSE	Uncharacterized protein	Ptprd	Mus musculus (Mouse)	79
+Q8CC54	unreviewed	Q8CC54_MOUSE	Uncharacterized protein	Ptprd	Mus musculus (Mouse)	93
+Q8CEI8	unreviewed	Q8CEI8_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprr	Mus musculus (Mouse)	656
+Q8R169	unreviewed	Q8R169_MOUSE	Ptprd protein	Ptprd	Mus musculus (Mouse)	749
+Q91V35	unreviewed	Q91V35_MOUSE	Receptor-type tyrosine-protein phosphatase alpha (EC 3.1.3.48)	Ptpra	Mus musculus (Mouse)	793
+Q925J6	unreviewed	Q925J6_MOUSE	Protein tyrosine phosphatase receptor type N	Ptprn	Mus musculus (Mouse)	873
+Q925J7	unreviewed	Q925J7_MOUSE	Protein tyrosine phosphatase receptor type N	Ptprn	Mus musculus (Mouse)	876
+Q99KV5	unreviewed	Q99KV5_MOUSE	Ptprk protein	Ptprk	Mus musculus (Mouse)	273
+Q99LN6	unreviewed	Q99LN6_MOUSE	Ptprz1 protein	Ptprz1	Mus musculus (Mouse)	130
+Q99M80	reviewed	PTPRT_MOUSE	Receptor-type tyrosine-protein phosphatase T (R-PTP-T) (EC 3.1.3.48) (RPTPmam4) (Receptor-type tyrosine-protein phosphatase rho) (RPTP-rho) (mRPTPrho)	Ptprt	Mus musculus (Mouse)	1454
+Q9D658	reviewed	TP4A3_MOUSE	Protein tyrosine phosphatase type IVA 3 (EC 3.1.3.48) (Protein-tyrosine phosphatase 4a3) (Protein-tyrosine phosphatase of regenerating liver 3) (PRL-3)	Ptp4a3 Prl3	Mus musculus (Mouse)	173
+Q9ERK5	unreviewed	Q9ERK5_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprv	Mus musculus (Mouse)	1705
+Q9ERM5	unreviewed	Q9ERM5_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpro	Mus musculus (Mouse)	1226
+Q9JJ07	unreviewed	Q9JJ07_MOUSE	Receptor-type protein tyrosine phosphatase	Ptprb	Mus musculus (Mouse)	579
+Q9JLJ6	unreviewed	Q9JLJ6_MOUSE	PTP36-D isoform	Ptpn14	Mus musculus (Mouse)	112
+Q9JLJ8	unreviewed	Q9JLJ8_MOUSE	Tyrosine-protein phosphatase non-receptor type (EC 3.1.3.48)	Ptpn14	Mus musculus (Mouse)	849
+Q9JLU0	unreviewed	Q9JLU0_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptpro Glepp1	Mus musculus (Mouse)	1198
+Q9QWQ7	unreviewed	Q9QWQ7_MOUSE	PTP-RL10b	Ptpn21	Mus musculus (Mouse)	336
+Q9WU22	reviewed	PTN4_MOUSE	Tyrosine-protein phosphatase non-receptor type 4 (EC 3.1.3.48) (Testis-enriched protein tyrosine phosphatase)	Ptpn4	Mus musculus (Mouse)	926
+S4R1M0	unreviewed	S4R1M0_MOUSE	protein-tyrosine-phosphatase (EC 3.1.3.48)	Ptprc	Mus musculus (Mouse)	1130

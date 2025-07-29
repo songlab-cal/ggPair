@@ -1,0 +1,317 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+B1ASP2	unreviewed	B1ASP2_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Jak1	Mus musculus (Mouse)	1153
+B1AWS8	unreviewed	B1AWS8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Tek	Mus musculus (Mouse)	1123
+E9Q696	unreviewed	E9Q696_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Lck	Mus musculus (Mouse)	520
+E9QK53	unreviewed	E9QK53_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	840
+E9QN12	unreviewed	E9QN12_MOUSE	Platelet-derived growth factor receptor beta (PDGF-R-beta) (PDGFR-beta) (EC 2.7.10.1) (Beta platelet-derived growth factor receptor) (Beta-type platelet-derived growth factor receptor)	Pdgfrb	Mus musculus (Mouse)	1103
+E9QNX9	unreviewed	E9QNX9_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Igf1r	Mus musculus (Mouse)	1369
+F8VQL0	unreviewed	F8VQL0_MOUSE	Hepatocyte growth factor receptor (EC 2.7.10.1) (HGF/SF receptor) (Proto-oncogene c-Met) (Scatter factor receptor) (Tyrosine-protein kinase Met)	Met	Mus musculus (Mouse)	1379
+J3QN85	unreviewed	J3QN85_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr1	Mus musculus (Mouse)	833
+K7QD41	unreviewed	K7QD41_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Ptk2b	Mus musculus (Mouse)	1009
+O09110	reviewed	MP2K3_MOUSE	Dual specificity mitogen-activated protein kinase kinase 3 (MAP kinase kinase 3) (MAPKK 3) (EC 2.7.12.2) (MAPK/ERK kinase 3) (MEK 3)	Map2k3 Mkk3 Prkmk3	Mus musculus (Mouse)	347
+O09127	reviewed	EPHA8_MOUSE	Ephrin type-A receptor 8 (EC 2.7.10.1) (EPH- and ELK-related kinase) (Tyrosine-protein kinase receptor EEK)	Epha8 Eek	Mus musculus (Mouse)	1004
+O35491	reviewed	CLK2_MOUSE	Dual specificity protein kinase CLK2 (EC 2.7.12.1) (CDC-like kinase 2)	Clk2	Mus musculus (Mouse)	499
+O35492	reviewed	CLK3_MOUSE	Dual specificity protein kinase CLK3 (EC 2.7.12.1) (CDC-like kinase 3)	Clk3	Mus musculus (Mouse)	638
+O35493	reviewed	CLK4_MOUSE	Dual specificity protein kinase CLK4 (EC 2.7.12.1) (CDC-like kinase 4)	Clk4	Mus musculus (Mouse)	481
+O54967	reviewed	ACK1_MOUSE	Activated CDC42 kinase 1 (ACK-1) (EC 2.7.10.2) (EC 2.7.11.1) (Non-receptor protein tyrosine kinase Ack) (Tyrosine kinase non-receptor protein 2)	Tnk2 Ack1	Mus musculus (Mouse)	1055
+O70146	reviewed	TESK1_MOUSE	Dual specificity testis-specific protein kinase 1 (EC 2.7.12.1) (Testicular protein kinase 1)	Tesk1	Mus musculus (Mouse)	627
+P00520	reviewed	ABL1_MOUSE	Tyrosine-protein kinase ABL1 (EC 2.7.10.2) (Abelson murine leukemia viral oncogene homolog 1) (Abelson tyrosine-protein kinase 1) (Proto-oncogene c-Abl) (p150)	Abl1 Abl	Mus musculus (Mouse)	1123
+P05480	reviewed	SRC_MOUSE	Proto-oncogene tyrosine-protein kinase Src (EC 2.7.10.2) (Proto-oncogene c-Src) (pp60c-src) (p60-Src)	Src	Mus musculus (Mouse)	535
+P05532	reviewed	KIT_MOUSE	Mast/stem cell growth factor receptor Kit (SCFR) (EC 2.7.10.1) (Proto-oncogene c-Kit) (Tyrosine-protein kinase Kit) (CD antigen CD117)	Kit Sl	Mus musculus (Mouse)	979
+P05622	reviewed	PGFRB_MOUSE	Platelet-derived growth factor receptor beta (PDGF-R-beta) (PDGFR-beta) (EC 2.7.10.1) (Beta platelet-derived growth factor receptor) (Beta-type platelet-derived growth factor receptor) (CD140 antigen-like family member B) (Platelet-derived growth factor receptor 1) (PDGFR-1) (CD antigen CD140b)	Pdgfrb Pdgfr Pdgfr1	Mus musculus (Mouse)	1098
+P06240	reviewed	LCK_MOUSE	Proto-oncogene tyrosine-protein kinase LCK (EC 2.7.10.2) (Leukocyte C-terminal Src kinase) (LSK) (Lymphocyte cell-specific protein-tyrosine kinase) (p56-LCK)	Lck Lsk-t	Mus musculus (Mouse)	509
+P08103	reviewed	HCK_MOUSE	Tyrosine-protein kinase HCK (EC 2.7.10.2) (B-cell/myeloid kinase) (BMK) (Hematopoietic cell kinase) (Hemopoietic cell kinase) (p56-HCK/p59-HCK)	Hck	Mus musculus (Mouse)	524
+P08923	reviewed	LTK_MOUSE	Leukocyte tyrosine kinase receptor (EC 2.7.10.1)	Ltk	Mus musculus (Mouse)	888
+P09581	reviewed	CSF1R_MOUSE	Macrophage colony-stimulating factor 1 receptor (CSF-1 receptor) (CSF-1-R) (CSF-1R) (M-CSF-R) (EC 2.7.10.1) (Proto-oncogene c-Fms) (CD antigen CD115)	Csf1r Csfmr Fms	Mus musculus (Mouse)	977
+P14234	reviewed	FGR_MOUSE	Tyrosine-protein kinase Fgr (EC 2.7.10.2) (Proto-oncogene c-Fgr) (p55-Fgr)	Fgr	Mus musculus (Mouse)	517
+P15208	reviewed	INSR_MOUSE	Insulin receptor (IR) (EC 2.7.10.1) (CD antigen CD220) [Cleaved into: Insulin receptor subunit alpha; Insulin receptor subunit beta]	Insr	Mus musculus (Mouse)	1372
+P15209	reviewed	NTRK2_MOUSE	BDNF/NT-3 growth factors receptor (EC 2.7.10.1) (GP145-TrkB/GP95-TrkB) (Trk-B) (Neurotrophic tyrosine kinase receptor type 2) (TrkB tyrosine kinase)	Ntrk2 Trkb	Mus musculus (Mouse)	821
+P16056	reviewed	MET_MOUSE	Hepatocyte growth factor receptor (HGF receptor) (EC 2.7.10.1) (HGF/SF receptor) (Proto-oncogene c-Met) (Scatter factor receptor) (SF receptor) (Tyrosine-protein kinase Met)	Met	Mus musculus (Mouse)	1379
+P16092	reviewed	FGFR1_MOUSE	Fibroblast growth factor receptor 1 (FGFR-1) (bFGF-R-1) (EC 2.7.10.1) (Basic fibroblast growth factor receptor 1) (MFR) (Proto-oncogene c-Fgr) (CD antigen CD331)	Fgfr1 Flg	Mus musculus (Mouse)	822
+P16277	reviewed	BLK_MOUSE	Tyrosine-protein kinase Blk (EC 2.7.10.2) (B lymphocyte kinase) (p55-Blk)	Blk	Mus musculus (Mouse)	499
+P16879	reviewed	FES_MOUSE	Tyrosine-protein kinase Fes/Fps (EC 2.7.10.2) (Proto-oncogene c-Fes)	Fes Fps	Mus musculus (Mouse)	822
+P21803	reviewed	FGFR2_MOUSE	Fibroblast growth factor receptor 2 (FGFR-2) (EC 2.7.10.1) (Keratinocyte growth factor receptor) (KGFR) (CD antigen CD332)	Fgfr2 Bek Ect1	Mus musculus (Mouse)	821
+P22518	reviewed	CLK1_MOUSE	Dual specificity protein kinase CLK1 (EC 2.7.12.1) (CDC-like kinase 1) (Protein kinase STY)	Clk1 Clk Sty	Mus musculus (Mouse)	483
+P24604	reviewed	TEC_MOUSE	Tyrosine-protein kinase Tec (EC 2.7.10.2)	Tec	Mus musculus (Mouse)	630
+P25911	reviewed	LYN_MOUSE	Tyrosine-protein kinase Lyn (EC 2.7.10.2) (V-yes-1 Yamaguchi sarcoma viral related oncogene homolog) (p53Lyn) (p56Lyn)	Lyn	Mus musculus (Mouse)	512
+P26618	reviewed	PGFRA_MOUSE	Platelet-derived growth factor receptor alpha (PDGF-R-alpha) (PDGFR-alpha) (EC 2.7.10.1) (Alpha platelet-derived growth factor receptor) (Alpha-type platelet-derived growth factor receptor) (CD140 antigen-like family member A) (Platelet-derived growth factor alpha receptor) (CD antigen CD140a)	Pdgfra	Mus musculus (Mouse)	1089
+P29319	reviewed	EPHA3_MOUSE	Ephrin type-A receptor 3 (EC 2.7.10.1) (EPH-like kinase 4) (EK4) (mEK4) (Tyrosine-protein kinase TYRO4) (Tyrosine-protein kinase receptor ETK1)	Epha3 Etk1 Mek4 Tyro4	Mus musculus (Mouse)	983
+P31938	reviewed	MP2K1_MOUSE	Dual specificity mitogen-activated protein kinase kinase 1 (MAP kinase kinase 1) (MAPKK 1) (EC 2.7.12.2) (ERK activator kinase 1) (MAPK/ERK kinase 1) (MEK 1)	Map2k1 Mek1 Prkmk1	Mus musculus (Mouse)	393
+P34152	reviewed	FAK1_MOUSE	Focal adhesion kinase 1 (FADK 1) (EC 2.7.10.2) (Focal adhesion kinase-related nonkinase) (FRNK) (Protein-tyrosine kinase 2) (p125FAK) (pp125FAK)	Ptk2 Fadk Fak Fak1 Kiaa4203	Mus musculus (Mouse)	1052
+P35546	reviewed	RET_MOUSE	Proto-oncogene tyrosine-protein kinase receptor Ret (EC 2.7.10.1) (Proto-oncogene c-Ret) [Cleaved into: Soluble RET kinase fragment; Extracellular cell-membrane anchored RET cadherin 120 kDa fragment]	Ret	Mus musculus (Mouse)	1115
+P35761	reviewed	TTK_MOUSE	Dual specificity protein kinase TTK (EC 2.7.12.1) (ESK) (PYT)	Ttk Esk	Mus musculus (Mouse)	856
+P35917	reviewed	VGFR3_MOUSE	Vascular endothelial growth factor receptor 3 (VEGFR-3) (EC 2.7.10.1) (Fms-like tyrosine kinase 4) (FLT-4) (Tyrosine-protein kinase receptor FLT4)	Flt4 Flt-4 Vegfr3	Mus musculus (Mouse)	1363
+P35918	reviewed	VGFR2_MOUSE	Vascular endothelial growth factor receptor 2 (VEGFR-2) (EC 2.7.10.1) (Fetal liver kinase 1) (FLK-1) (Kinase NYK) (Protein-tyrosine kinase receptor flk-1) (CD antigen CD309)	Kdr Flk-1 Flk1	Mus musculus (Mouse)	1345
+P35969	reviewed	VGFR1_MOUSE	Vascular endothelial growth factor receptor 1 (VEGFR-1) (EC 2.7.10.1) (Embryonic receptor kinase 2) (Fms-like tyrosine kinase 1) (FLT-1) (Tyrosine-protein kinase receptor FLT)	Flt1 Emrk2 Flt Vegfr1	Mus musculus (Mouse)	1333
+P35991	reviewed	BTK_MOUSE	Tyrosine-protein kinase BTK (EC 2.7.10.2) (Agammaglobulinemia tyrosine kinase) (ATK) (B-cell progenitor kinase) (BPK) (Bruton tyrosine kinase) (Kinase EMB)	Btk Bpk	Mus musculus (Mouse)	659
+P39688	reviewed	FYN_MOUSE	Tyrosine-protein kinase Fyn (EC 2.7.10.2) (Proto-oncogene c-Fyn) (p59-Fyn)	Fyn	Mus musculus (Mouse)	537
+P41241	reviewed	CSK_MOUSE	Tyrosine-protein kinase CSK (EC 2.7.10.2) (C-Src kinase) (Protein-tyrosine kinase MPK-2) (p50CSK)	Csk	Mus musculus (Mouse)	450
+P42682	reviewed	TXK_MOUSE	Tyrosine-protein kinase TXK (EC 2.7.10.2) (PTK-RL-18) (Resting lymphocyte kinase)	Txk Rlk	Mus musculus (Mouse)	527
+P43404	reviewed	ZAP70_MOUSE	Tyrosine-protein kinase ZAP-70 (EC 2.7.10.2) (70 kDa zeta-chain associated protein) (Syk-related tyrosine kinase)	Zap70 Srk Zap-70	Mus musculus (Mouse)	618
+P47809	reviewed	MP2K4_MOUSE	Dual specificity mitogen-activated protein kinase kinase 4 (MAP kinase kinase 4) (MAPKK 4) (EC 2.7.12.2) (C-JUN N-terminal kinase kinase 1) (JNK kinase 1) (JNKK 1) (JNK-activating kinase 1) (MAPK/ERK kinase 4) (MEK 4) (SAPK/ERK kinase 1) (SEK1)	Map2k4 Jnkk1 Mek4 Mkk4 Prkmk4 Sek1 Serk1 Skk1	Mus musculus (Mouse)	397
+P47810	reviewed	WEE1_MOUSE	Wee1-like protein kinase (EC 2.7.10.2) (Wee1A kinase)	Wee1	Mus musculus (Mouse)	646
+P48025	reviewed	KSYK_MOUSE	Tyrosine-protein kinase SYK (EC 2.7.10.2) (Spleen tyrosine kinase)	Syk ptk72 Sykb	Mus musculus (Mouse)	629
+P51954	reviewed	NEK1_MOUSE	Serine/threonine-protein kinase Nek1 (EC 2.7.11.1) (Never in mitosis A-related kinase 1) (NimA-related protein kinase 1)	Nek1	Mus musculus (Mouse)	1203
+P52332	reviewed	JAK1_MOUSE	Tyrosine-protein kinase JAK1 (EC 2.7.10.2) (Janus kinase 1) (JAK-1)	Jak1	Mus musculus (Mouse)	1153
+P54754	reviewed	EPHB3_MOUSE	Ephrin type-B receptor 3 (EC 2.7.10.1) (Developmental kinase 5) (mDK-5) (Tyrosine-protein kinase receptor SEK-4)	Ephb3 Etk2 Mdk5 Sek4	Mus musculus (Mouse)	993
+P54761	reviewed	EPHB4_MOUSE	Ephrin type-B receptor 4 (EC 2.7.10.1) (Developmental kinase 2) (mDK-2) (Hepatoma transmembrane kinase) (Tyrosine kinase MYK-1)	Ephb4 Htk Mdk2 Myk1	Mus musculus (Mouse)	987
+P54763	reviewed	EPHB2_MOUSE	Ephrin type-B receptor 2 (EC 2.7.10.1) (Neural kinase) (Nuk receptor tyrosine kinase) (Tyrosine-protein kinase receptor EPH-3) (Tyrosine-protein kinase receptor SEK-3) [Cleaved into: EphB2/CTF1; EphB2/CTF2]	Ephb2 Epth3 Nuk Sek3	Mus musculus (Mouse)	986
+P55144	reviewed	TYRO3_MOUSE	Tyrosine-protein kinase receptor TYRO3 (EC 2.7.10.1) (Etk2/tyro3) (TK19-2) (Tyrosine-protein kinase DTK) (Tyrosine-protein kinase RSE) (Tyrosine-protein kinase TIF)	Tyro3 Dtk Rse Tif	Mus musculus (Mouse)	880
+P70236	reviewed	MP2K6_MOUSE	Dual specificity mitogen-activated protein kinase kinase 6 (MAP kinase kinase 6) (MAPKK 6) (EC 2.7.12.2) (MAPK/ERK kinase 6) (MEK 6) (SAPKK3)	Map2k6 Prkmk6 Sapkk3	Mus musculus (Mouse)	334
+P70424	reviewed	ERBB2_MOUSE	Receptor tyrosine-protein kinase erbB-2 (EC 2.7.10.1) (Proto-oncogene Neu) (Proto-oncogene c-ErbB-2) (p185erbB2) (CD antigen CD340)	Erbb2 Kiaa3023 Neu	Mus musculus (Mouse)	1256
+P70451	reviewed	FER_MOUSE	Tyrosine-protein kinase Fer (EC 2.7.10.2) (Proto-oncogene c-Fer) (p94-Fer)	Fer Fert2	Mus musculus (Mouse)	823
+P97504	reviewed	BMX_MOUSE	Cytoplasmic tyrosine-protein kinase BMX (EC 2.7.10.2) (Bone marrow tyrosine kinase gene in chromosome X protein homolog)	Bmx	Mus musculus (Mouse)	651
+P97793	reviewed	ALK_MOUSE	ALK tyrosine kinase receptor (EC 2.7.10.1) (Anaplastic lymphoma kinase) (CD antigen CD246)	Alk	Mus musculus (Mouse)	1621
+Q00342	reviewed	FLT3_MOUSE	Receptor-type tyrosine-protein kinase FLT3 (EC 2.7.10.1) (FL cytokine receptor) (Fetal liver kinase 2) (FLK-2) (Fms-like tyrosine kinase 3) (FLT-3) (Tyrosine-protein kinase receptor flk-2) (CD antigen CD135)	Flt3 Flk-2 Flt-3	Mus musculus (Mouse)	1000
+Q00993	reviewed	UFO_MOUSE	Tyrosine-protein kinase receptor UFO (EC 2.7.10.1) (Adhesion-related kinase)	Axl Ark Ufo	Mus musculus (Mouse)	888
+Q01279	reviewed	EGFR_MOUSE	Epidermal growth factor receptor (EC 2.7.10.1)	Egfr	Mus musculus (Mouse)	1210
+Q01887	reviewed	RYK_MOUSE	Tyrosine-protein kinase RYK (EC 2.7.10.1) (Kinase VIK) (Met-related kinase) (NYK-R)	Ryk Mrk	Mus musculus (Mouse)	594
+Q02858	reviewed	TIE2_MOUSE	Angiopoietin-1 receptor (EC 2.7.10.1) (Endothelial tyrosine kinase) (HYK) (STK1) (Tunica interna endothelial cell kinase) (Tyrosine kinase with Ig and EGF homology domains-2) (Tyrosine-protein kinase receptor TEK) (Tyrosine-protein kinase receptor TIE-2) (mTIE2) (p140 TEK) (CD antigen CD202b)	Tek Hyk Tie-2 Tie2	Mus musculus (Mouse)	1122
+Q03137	reviewed	EPHA4_MOUSE	Ephrin type-A receptor 4 (EC 2.7.10.1) (Tyrosine-protein kinase receptor MPK-3) (Tyrosine-protein kinase receptor SEK-1)	Epha4 Sek Sek1	Mus musculus (Mouse)	986
+Q03142	reviewed	FGFR4_MOUSE	Fibroblast growth factor receptor 4 (FGFR-4) (EC 2.7.10.1) (Protein-tyrosine kinase receptor MPK-11) (CD antigen CD334)	Fgfr4 Fgfr-4 Mpk-11	Mus musculus (Mouse)	799
+Q03145	reviewed	EPHA2_MOUSE	Ephrin type-A receptor 2 (EC 2.7.10.1) (Epithelial cell kinase) (Tyrosine-protein kinase receptor ECK) (Tyrosine-protein kinase receptor MPK-5) (Tyrosine-protein kinase receptor SEK-2)	Epha2 Eck Myk2 Sek2	Mus musculus (Mouse)	977
+Q03146	reviewed	DDR1_MOUSE	Epithelial discoidin domain-containing receptor 1 (Epithelial discoidin domain receptor 1) (EC 2.7.10.1) (CD167 antigen-like family member A) (Cell adhesion kinase) (Discoidin receptor tyrosine kinase) (Protein-tyrosine kinase MPK-6) (Tyrosine kinase DDR) (Tyrosine-protein kinase CAK) (CD antigen CD167a)	Ddr1 Cak Eddr1 Mpk6	Mus musculus (Mouse)	911
+Q03526	reviewed	ITK_MOUSE	Tyrosine-protein kinase ITK/TSK (EC 2.7.10.2) (IL-2-inducible T-cell kinase) (Kinase EMT) (Kinase TLK) (T-cell-specific kinase)	Itk Emt Tlk Tsk	Mus musculus (Mouse)	625
+Q03963	reviewed	E2AK2_MOUSE	Interferon-induced, double-stranded RNA-activated protein kinase (EC 2.7.11.1) (Eukaryotic translation initiation factor 2-alpha kinase 2) (eIF-2A protein kinase 2) (Interferon-inducible RNA-dependent protein kinase) (P1/eIF-2A protein kinase) (Protein kinase RNA-activated) (PKR) (Protein kinase R) (Serine/threonine-protein kinase TIK) (Tyrosine-protein kinase EIF2AK2) (EC 2.7.10.2) (p68 kinase)	Eif2ak2 Pkr Prkr Tik	Mus musculus (Mouse)	515
+Q04736	reviewed	YES_MOUSE	Tyrosine-protein kinase Yes (EC 2.7.10.2) (Proto-oncogene c-Yes) (p61-Yes)	Yes1 Yes	Mus musculus (Mouse)	541
+Q06806	reviewed	TIE1_MOUSE	Tyrosine-protein kinase receptor Tie-1 (EC 2.7.10.1)	Tie1 Tie Tie-1	Mus musculus (Mouse)	1134
+Q3SYK5	unreviewed	Q3SYK5_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Abl1	Mus musculus (Mouse)	1142
+Q3TCS3	unreviewed	Q3TCS3_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Lyn	Mus musculus (Mouse)	512
+Q3UFB7	reviewed	NTRK1_MOUSE	High affinity nerve growth factor receptor (EC 2.7.10.1) (Neurotrophic tyrosine kinase receptor type 1)	Ntrk1	Mus musculus (Mouse)	799
+Q3UPF7	unreviewed	Q3UPF7_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Syk Sykb	Mus musculus (Mouse)	629
+Q4JIM5	reviewed	ABL2_MOUSE	Tyrosine-protein kinase ABL2 (EC 2.7.10.2) (Abelson murine leukemia viral oncogene homolog 2) (Abelson tyrosine-protein kinase 2) (Abelson-related gene protein) (Tyrosine-protein kinase ARG)	Abl2 Arg	Mus musculus (Mouse)	1182
+Q5RJI4	reviewed	PKDCC_MOUSE	Extracellular tyrosine-protein kinase PKDCC (EC 2.7.10.2) (Protein kinase domain-containing protein, cytoplasmic) (Protein kinase-like protein SgK493) (Sugen kinase 493) (Vertebrate lonesome kinase)	Pkdcc Sgk493 Vlk	Mus musculus (Mouse)	492
+Q5U4C9	reviewed	DYRK2_MOUSE	Dual specificity tyrosine-phosphorylation-regulated kinase 2 (EC 2.7.12.1)	Dyrk2	Mus musculus (Mouse)	599
+Q60629	reviewed	EPHA5_MOUSE	Ephrin type-A receptor 5 (EC 2.7.10.1) (Brain-specific kinase) (CEK-7) (EPH homology kinase 1) (EHK-1)	Epha5 Bsk Ehk1	Mus musculus (Mouse)	876
+Q60750	reviewed	EPHA1_MOUSE	Ephrin type-A receptor 1 (mEpha1) (EC 2.7.10.1) (Embryonic stem cell kinase) (Tyrosine-protein kinase receptor ESK)	Epha1 Esk	Mus musculus (Mouse)	977
+Q60751	reviewed	IGF1R_MOUSE	Insulin-like growth factor 1 receptor (EC 2.7.10.1) (Insulin-like growth factor I receptor) (IGF-I receptor) (CD antigen CD221) [Cleaved into: Insulin-like growth factor 1 receptor alpha chain; Insulin-like growth factor 1 receptor beta chain]	Igf1r	Mus musculus (Mouse)	1373
+Q60805	reviewed	MERTK_MOUSE	Tyrosine-protein kinase Mer (EC 2.7.10.1) (Proto-oncogene c-Mer) (Receptor tyrosine kinase MerTK)	Mertk Mer	Mus musculus (Mouse)	994
+Q61006	reviewed	MUSK_MOUSE	Muscle, skeletal receptor tyrosine-protein kinase (EC 2.7.10.1) (Muscle-specific tyrosine-protein kinase receptor) (MuSK) (Muscle-specific kinase receptor)	Musk Nsk2	Mus musculus (Mouse)	868
+Q61214	reviewed	DYR1A_MOUSE	Dual specificity tyrosine-phosphorylation-regulated kinase 1A (EC 2.7.11.23) (EC 2.7.12.1) (Dual specificity YAK1-related kinase) (MP86) (Protein kinase minibrain homolog) (MNBH)	Dyrk1a Dyrk	Mus musculus (Mouse)	763
+Q61526	reviewed	ERBB3_MOUSE	Receptor tyrosine-protein kinase erbB-3 (EC 2.7.10.1) (Glial growth factor receptor) (Proto-oncogene-like protein c-ErbB-3)	Erbb3	Mus musculus (Mouse)	1339
+Q61527	reviewed	ERBB4_MOUSE	Receptor tyrosine-protein kinase erbB-4 (EC 2.7.10.1) (Proto-oncogene-like protein c-ErbB-4) [Cleaved into: ERBB4 intracellular domain (4ICD) (E4ICD) (s80HER4)]	Erbb4 Mer4	Mus musculus (Mouse)	1308
+Q61772	reviewed	EPHA7_MOUSE	Ephrin type-A receptor 7 (EC 2.7.10.1) (Developmental kinase 1) (mDK-1) (EPH homology kinase 3) (EHK-3) (Embryonic brain kinase) (EBK)	Epha7 Ebk Ehk3 Mdk1	Mus musculus (Mouse)	998
+Q61851	reviewed	FGFR3_MOUSE	Fibroblast growth factor receptor 3 (FGFR-3) (EC 2.7.10.1) (Heparin-binding growth factor receptor) (CD antigen CD333)	Fgfr3 Mfr3 Sam3	Mus musculus (Mouse)	801
+Q62120	reviewed	JAK2_MOUSE	Tyrosine-protein kinase JAK2 (EC 2.7.10.2) (Janus kinase 2) (JAK-2)	Jak2	Mus musculus (Mouse)	1132
+Q62137	reviewed	JAK3_MOUSE	Tyrosine-protein kinase JAK3 (EC 2.7.10.2) (Janus kinase 3) (JAK-3)	Jak3	Mus musculus (Mouse)	1100
+Q62190	reviewed	RON_MOUSE	Macrophage-stimulating protein receptor (MSP receptor) (EC 2.7.10.1) (Stem cell-derived tyrosine kinase) (p185-Ron) (CD antigen CD136) [Cleaved into: Macrophage-stimulating protein receptor alpha chain; Macrophage-stimulating protein receptor beta chain]	Mst1r Ron Stk	Mus musculus (Mouse)	1378
+Q62270	reviewed	SRMS_MOUSE	Tyrosine-protein kinase Srms (EC 2.7.10.2) (PTK70)	Srms Srm	Mus musculus (Mouse)	496
+Q62371	reviewed	DDR2_MOUSE	Discoidin domain-containing receptor 2 (Discoidin domain receptor 2) (EC 2.7.10.1) (CD167 antigen-like family member B) (Neurotrophic tyrosine kinase, receptor-related 3) (Receptor protein-tyrosine kinase TKT) (Tyrosine-protein kinase TYRO10) (CD antigen CD167b)	Ddr2 Ntrkr3 Tkt Tyro10	Mus musculus (Mouse)	854
+Q62413	reviewed	EPHA6_MOUSE	Ephrin type-A receptor 6 (EC 2.7.10.1) (EPH homology kinase 2) (EHK-2)	Epha6 Ehk-2 Ehk2	Mus musculus (Mouse)	1035
+Q63932	reviewed	MP2K2_MOUSE	Dual specificity mitogen-activated protein kinase kinase 2 (MAP kinase kinase 2) (MAPKK 2) (EC 2.7.12.2) (ERK activator kinase 2) (MAPK/ERK kinase 2) (MEK 2)	Map2k2 Mek2 Mkk2 Prkmk2	Mus musculus (Mouse)	401
+Q64434	reviewed	PTK6_MOUSE	Protein-tyrosine kinase 6 (EC 2.7.10.2) (SRC-related intestinal kinase)	Ptk6 Sik	Mus musculus (Mouse)	451
+Q66JT0	reviewed	WEE2_MOUSE	Wee1-like protein kinase 2 (EC 2.7.10.2) (Wee1-like protein kinase 1B) (Wee1B kinase) (mWee1B)	Wee2 Wee1b	Mus musculus (Mouse)	555
+Q6VNS1	reviewed	NTRK3_MOUSE	NT-3 growth factor receptor (EC 2.7.10.1) (GP145-TrkC) (Trk-C) (Neurotrophic tyrosine kinase receptor type 3) (TrkC tyrosine kinase)	Ntrk3 TrkC	Mus musculus (Mouse)	825
+Q6XUX1	reviewed	DUSTY_MOUSE	Dual serine/threonine and tyrosine protein kinase (EC 2.7.12.1) (Dusty protein kinase) (Dusty PK) (Receptor-interacting serine/threonine-protein kinase 5)	Dstyk Ripk5	Mus musculus (Mouse)	927
+Q78DX7	reviewed	ROS1_MOUSE	Proto-oncogene tyrosine-protein kinase ROS (EC 2.7.10.1) (Proto-oncogene c-Ros) (Proto-oncogene c-Ros-1) (Receptor tyrosine kinase c-ros oncogene 1) (c-Ros receptor tyrosine kinase)	Ros1 Ros Ros-1	Mus musculus (Mouse)	2340
+Q8CBF3	reviewed	EPHB1_MOUSE	Ephrin type-B receptor 1 (EC 2.7.10.1)	Ephb1	Mus musculus (Mouse)	984
+Q8CE90	reviewed	MP2K7_MOUSE	Dual specificity mitogen-activated protein kinase kinase 7 (MAP kinase kinase 7) (MAPKK 7) (EC 2.7.12.2) (JNK-activating kinase 2) (MAPK/ERK kinase 7) (MEK 7) (c-Jun N-terminal kinase kinase 2) (JNK kinase 2) (JNKK 2)	Map2k7 Mkk7	Mus musculus (Mouse)	535
+Q8VCT9	reviewed	TESK2_MOUSE	Dual specificity testis-specific protein kinase 2 (EC 2.7.12.1) (Testicular protein kinase 2)	Tesk2	Mus musculus (Mouse)	570
+Q922K9	reviewed	FRK_MOUSE	Tyrosine-protein kinase FRK (EC 2.7.10.2) (Beta-cell Src-homology tyrosine kinase) (BSK) (FYN-related kinase) (Intestine tyrosine kinase)	Frk Bsk Iyk	Mus musculus (Mouse)	512
+Q922Y0	reviewed	DYRK3_MOUSE	Dual specificity tyrosine-phosphorylation-regulated kinase 3 (EC 2.7.12.1)	Dyrk3	Mus musculus (Mouse)	586
+Q99ML2	reviewed	TNK1_MOUSE	Non-receptor tyrosine-protein kinase TNK1 (EC 2.7.10.2) (Kinase of embryonic stem cells)	Tnk1 Kos1	Mus musculus (Mouse)	666
+Q9QVP9	reviewed	FAK2_MOUSE	Protein-tyrosine kinase 2-beta (EC 2.7.10.2) (Calcium-dependent tyrosine kinase) (CADTK) (Calcium-regulated non-receptor proline-rich tyrosine kinase) (Cell adhesion kinase beta) (CAK-beta) (CAKB) (Focal adhesion kinase 2) (FADK 2) (Proline-rich tyrosine kinase 2) (Related adhesion focal tyrosine kinase) (RAFTK)	Ptk2b Fak2 Pyk2 Raftk	Mus musculus (Mouse)	1009
+Q9R117	reviewed	TYK2_MOUSE	Non-receptor tyrosine-protein kinase TYK2 (EC 2.7.10.2)	Tyk2	Mus musculus (Mouse)	1184
+Q9WTL4	reviewed	INSRR_MOUSE	Insulin receptor-related protein (IRR) (EC 2.7.10.1) (IR-related receptor) [Cleaved into: Insulin receptor-related protein alpha chain; Insulin receptor-related protein beta chain]	Insrr Irr	Mus musculus (Mouse)	1300
+Q9WVS7	reviewed	MP2K5_MOUSE	Dual specificity mitogen-activated protein kinase kinase 5 (MAP kinase kinase 5) (MAPKK 5) (EC 2.7.12.2) (MAPK/ERK kinase 5) (MEK 5)	Map2k5 Mek5 Mkk5 Prkmk5	Mus musculus (Mouse)	448
+Q9Z188	reviewed	DYR1B_MOUSE	Dual specificity tyrosine-phosphorylation-regulated kinase 1B (EC 2.7.12.1)	Dyrk1b	Mus musculus (Mouse)	629
+Q9Z277	reviewed	BAZ1B_MOUSE	Tyrosine-protein kinase BAZ1B (EC 2.7.10.2) (Bromodomain adjacent to zinc finger domain protein 1B) (Williams syndrome transcription factor homolog) (Williams-Beuren syndrome chromosomal region 9 protein homolog)	Baz1b Wbscr9 Wstf	Mus musculus (Mouse)	1479
+A0A0A6YWL7	unreviewed	A0A0A6YWL7_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Ntrk3	Mus musculus (Mouse)	864
+A0A0R4IZY3	unreviewed	A0A0R4IZY3_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr4	Mus musculus (Mouse)	799
+A0A0R4J0A4	unreviewed	A0A0R4J0A4_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Flt1	Mus musculus (Mouse)	1333
+A2KF29	reviewed	SMKTR_MOUSE	Sperm motility kinase Tcr mutant form (SmokTcr) (Tcr) (EC 2.7.11.1) (Dominant negative form of Smok) (Responder protein Smok-Tcr)	Smoktcr	Mus musculus (Mouse)	484
+E9QJS1	unreviewed	E9QJS1_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Tyk2	Mus musculus (Mouse)	1207
+E9QNJ9	unreviewed	E9QNJ9_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr3	Mus musculus (Mouse)	802
+F6UND7	unreviewed	F6UND7_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Hck	Mus musculus (Mouse)	524
+P41242	reviewed	MATK_MOUSE	Megakaryocyte-associated tyrosine-protein kinase (EC 2.7.10.2) (Protein kinase NTK) (Tyrosine-protein kinase CTK)	Matk Ctk Ntk	Mus musculus (Mouse)	505
+Q0P635	unreviewed	Q0P635_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Csf1r	Mus musculus (Mouse)	977
+Q3UEW6	unreviewed	Q3UEW6_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Flt3	Mus musculus (Mouse)	1000
+Q3UYC9	unreviewed	Q3UYC9_MOUSE	Platelet-derived growth factor receptor beta (PDGF-R-beta) (PDGFR-beta) (EC 2.7.10.1) (Beta platelet-derived growth factor receptor) (Beta-type platelet-derived growth factor receptor)	Pdgfrb	Mus musculus (Mouse)	1103
+Q5SU94	unreviewed	Q5SU94_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Flt4	Mus musculus (Mouse)	1363
+Q6J9G1	reviewed	STYK1_MOUSE	Tyrosine-protein kinase STYK1 (EC 2.7.10.2) (Novel oncogene with kinase domain) (mNOK) (Serine/threonine/tyrosine kinase 1)	Styk1 Nok	Mus musculus (Mouse)	429
+Q7TMR8	unreviewed	Q7TMR8_MOUSE	Platelet-derived growth factor receptor beta (PDGF-R-beta) (PDGFR-beta) (EC 2.7.10.1) (Beta platelet-derived growth factor receptor) (Beta-type platelet-derived growth factor receptor)	Pdgfrb	Mus musculus (Mouse)	1099
+Q8BRB1	unreviewed	Q8BRB1_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha3	Mus musculus (Mouse)	984
+Q8BYG9	reviewed	EPHAA_MOUSE	Ephrin type-A receptor 10 (EC 2.7.10.1)	Epha10	Mus musculus (Mouse)	1007
+Q9QYZ4	reviewed	SMOK1_MOUSE	Sperm motility kinase 1 (EC 2.7.11.1)	Smok1	Mus musculus (Mouse)	484
+A0A0A6YWF9	unreviewed	A0A0A6YWF9_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Ntrk3	Mus musculus (Mouse)	839
+A0A0R4J0R7	unreviewed	A0A0R4J0R7_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Jak3	Mus musculus (Mouse)	1100
+A0A0U1RPM2	unreviewed	A0A0U1RPM2_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Fes	Mus musculus (Mouse)	820
+A0A494BBB9	unreviewed	A0A494BBB9_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Jak2	Mus musculus (Mouse)	638
+A0A5F8MPC4	unreviewed	A0A5F8MPC4_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Tnk2	Mus musculus (Mouse)	1072
+A0A5F8MPY3	unreviewed	A0A5F8MPY3_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Ptk2	Mus musculus (Mouse)	1093
+A1YYM3	unreviewed	A1YYM3_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	733
+A1YYM4	unreviewed	A1YYM4_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	822
+A1YYM5	unreviewed	A1YYM5_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	707
+A1YYM6	unreviewed	A1YYM6_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	731
+A1YYM7	unreviewed	A1YYM7_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	724
+A1YYM8	unreviewed	A1YYM8_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	705
+A1YYM9	unreviewed	A1YYM9_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	820
+A1YYN0	unreviewed	A1YYN0_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	813
+A1YYN1	unreviewed	A1YYN1_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	670
+A1YYN2	unreviewed	A1YYN2_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	696
+A1YYN5	unreviewed	A1YYN5_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	695
+A1YYN6	unreviewed	A1YYN6_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	819
+A1YYN7	unreviewed	A1YYN7_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	698
+A1YYN9	unreviewed	A1YYN9_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	821
+A1YYP0	unreviewed	A1YYP0_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	704
+A1YYP1	unreviewed	A1YYP1_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	706
+A2BDQ4	unreviewed	A2BDQ4_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha7	Mus musculus (Mouse)	994
+A4FUV6	unreviewed	A4FUV6_MOUSE	Hepatocyte growth factor receptor (EC 2.7.10.1) (HGF/SF receptor) (Proto-oncogene c-Met) (Scatter factor receptor) (Tyrosine-protein kinase Met)	Met	Mus musculus (Mouse)	1378
+A4FUV7	unreviewed	A4FUV7_MOUSE	Hepatocyte growth factor receptor (EC 2.7.10.1) (HGF/SF receptor) (Proto-oncogene c-Met) (Scatter factor receptor) (Tyrosine-protein kinase Met)	Met	Mus musculus (Mouse)	1377
+B1AUL6	unreviewed	B1AUL6_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Bmx	Mus musculus (Mouse)	655
+B2RQ20	unreviewed	B2RQ20_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Txk	Mus musculus (Mouse)	527
+B2RUR6	unreviewed	B2RUR6_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Mst1r	Mus musculus (Mouse)	1378
+B7ZNN5	unreviewed	B7ZNN5_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha3	Mus musculus (Mouse)	983
+B7ZWP2	unreviewed	B7ZWP2_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	752
+B9EJ30	unreviewed	B9EJ30_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Ltk	Mus musculus (Mouse)	827
+D3Z3U5	unreviewed	D3Z3U5_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Tnk2	Mus musculus (Mouse)	1038
+D3Z3U6	unreviewed	D3Z3U6_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Tnk2	Mus musculus (Mouse)	1040
+D3Z5M8	unreviewed	D3Z5M8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	709
+E9PVU6	unreviewed	E9PVU6_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	820
+E9PVV8	unreviewed	E9PVV8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	893
+E9PWE9	unreviewed	E9PWE9_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Syk	Mus musculus (Mouse)	583
+E9PWK7	unreviewed	E9PWK7_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Ephb4	Mus musculus (Mouse)	935
+E9PX60	unreviewed	E9PX60_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	695
+E9PX67	unreviewed	E9PX67_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	813
+E9PX88	unreviewed	E9PX88_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	698
+E9PX90	unreviewed	E9PX90_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	705
+E9PXV8	unreviewed	E9PXV8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	724
+E9Q2A6	unreviewed	E9Q2A6_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Ptk2b	Mus musculus (Mouse)	967
+E9Q5C2	unreviewed	E9Q5C2_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	723
+E9Q5C3	unreviewed	E9Q5C3_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	696
+E9Q708	unreviewed	E9Q708_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	731
+E9Q7C7	unreviewed	E9Q7C7_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	726
+E9Q7E8	unreviewed	E9Q7E8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	822
+E9Q7T0	unreviewed	E9Q7T0_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	819
+F6TK14	unreviewed	F6TK14_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr3	Mus musculus (Mouse)	801
+F8VQH0	unreviewed	F8VQH0_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Abl2	Mus musculus (Mouse)	1182
+G3X9X7	unreviewed	G3X9X7_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Tnk2	Mus musculus (Mouse)	1055
+K7Q751	unreviewed	K7Q751_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Ptk2	Mus musculus (Mouse)	1068
+M4TKR7	unreviewed	M4TKR7_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Insr	Mus musculus (Mouse)	1384
+P97423	unreviewed	P97423_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Jak3	Mus musculus (Mouse)	1081
+Q05AA8	unreviewed	Q05AA8_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Ptk6	Mus musculus (Mouse)	451
+Q2M4G5	unreviewed	Q2M4G5_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Tyk2	Mus musculus (Mouse)	1180
+Q3TIS9	unreviewed	Q3TIS9_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Tyk2	Mus musculus (Mouse)	1184
+Q3TJI7	unreviewed	Q3TJI7_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Yes1	Mus musculus (Mouse)	541
+Q3TQL1	unreviewed	Q3TQL1_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr3	Mus musculus (Mouse)	762
+Q3U1X4	unreviewed	Q3U1X4_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Csf1r	Mus musculus (Mouse)	945
+Q3U1Y3	unreviewed	Q3U1Y3_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Csf1r	Mus musculus (Mouse)	977
+Q3U210	unreviewed	Q3U210_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Csf1r	Mus musculus (Mouse)	977
+Q3U3W0	unreviewed	Q3U3W0_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Csf1r	Mus musculus (Mouse)	977
+Q3U436	unreviewed	Q3U436_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Tec	Mus musculus (Mouse)	630
+Q3U447	unreviewed	Q3U447_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Tyk2	Mus musculus (Mouse)	1207
+Q3U4N8	unreviewed	Q3U4N8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Csf1r	Mus musculus (Mouse)	922
+Q3U8P8	unreviewed	Q3U8P8_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Jak1	Mus musculus (Mouse)	1126
+Q3UDE9	unreviewed	Q3UDE9_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Ptk2b	Mus musculus (Mouse)	1005
+Q3UKC6	unreviewed	Q3UKC6_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Csf1r	Mus musculus (Mouse)	977
+Q3ULJ6	unreviewed	Q3ULJ6_MOUSE	Mast/stem cell growth factor receptor Kit (EC 2.7.10.1) (Proto-oncogene c-Kit) (Tyrosine-protein kinase Kit)	Kit	Mus musculus (Mouse)	742
+Q3UPE1	unreviewed	Q3UPE1_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr3	Mus musculus (Mouse)	801
+Q3URU8	unreviewed	Q3URU8_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Jak1	Mus musculus (Mouse)	1153
+Q3V1K8	unreviewed	Q3V1K8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Ephb4	Mus musculus (Mouse)	987
+Q60818	unreviewed	Q60818_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr1	Mus musculus (Mouse)	822
+Q61563	unreviewed	Q61563_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr3 FR3	Mus musculus (Mouse)	782
+Q6NXV8	unreviewed	Q6NXV8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Csf1r	Mus musculus (Mouse)	977
+Q6P1E0	unreviewed	Q6P1E0_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Syk Sykb	Mus musculus (Mouse)	629
+Q6PE80	unreviewed	Q6PE80_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Axl	Mus musculus (Mouse)	879
+Q7TSI8	unreviewed	Q7TSI8_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr3	Mus musculus (Mouse)	800
+Q80YS4	unreviewed	Q80YS4_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Tek	Mus musculus (Mouse)	1072
+Q8C2G0	unreviewed	Q8C2G0_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Ptk2b	Mus musculus (Mouse)	967
+Q8C7S3	unreviewed	Q8C7S3_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Ephb4	Mus musculus (Mouse)	987
+Q8C8K1	unreviewed	Q8C8K1_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Ephb4	Mus musculus (Mouse)	996
+Q8CCF8	unreviewed	Q8CCF8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Axl	Mus musculus (Mouse)	755
+Q8CIM9	unreviewed	Q8CIM9_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr1	Mus musculus (Mouse)	820
+Q91YM0	unreviewed	Q91YM0_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Ephb4	Mus musculus (Mouse)	987
+Q99052	unreviewed	Q99052_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr3 Flg-2	Mus musculus (Mouse)	800
+Q9EP98	unreviewed	Q9EP98_MOUSE	Receptor protein-tyrosine kinase (EC 2.7.10.1)	Egfr	Mus musculus (Mouse)	1210
+A0A0G2JG94	unreviewed	A0A0G2JG94_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Txk	Mus musculus (Mouse)	505
+A0A0R4J1L0	unreviewed	A0A0R4J1L0_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Tnk2	Mus musculus (Mouse)	1008
+A0A0R4J1N6	unreviewed	A0A0R4J1N6_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Matk	Mus musculus (Mouse)	505
+A0A0R4J1P8	unreviewed	A0A0R4J1P8_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Matk	Mus musculus (Mouse)	465
+A0A1W2P7L6	unreviewed	A0A1W2P7L6_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Ros1	Mus musculus (Mouse)	2319
+A0A5F8MPM0	unreviewed	A0A5F8MPM0_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Tnk2	Mus musculus (Mouse)	1040
+A0A5F8MQ87	unreviewed	A0A5F8MQ87_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Tnk2	Mus musculus (Mouse)	1047
+A0A804AW03	unreviewed	A0A804AW03_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Ltk	Mus musculus (Mouse)	576
+A1A560	unreviewed	A1A560_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Itk	Mus musculus (Mouse)	618
+A1YYN4	unreviewed	A1YYN4_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	608
+A1YYN8	unreviewed	A1YYN8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	609
+A2BDW0	unreviewed	A2BDW0_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Btk	Mus musculus (Mouse)	483
+B1AUL5	unreviewed	B1AUL5_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Bmx	Mus musculus (Mouse)	651
+B2RQ57	unreviewed	B2RQ57_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Abl2	Mus musculus (Mouse)	1078
+B7ZMZ2	unreviewed	B7ZMZ2_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Abl2	Mus musculus (Mouse)	1078
+B9EKY4	unreviewed	B9EKY4_MOUSE	Fibroblast growth factor receptor (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	725
+D3YZ57	unreviewed	D3YZ57_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Fyn	Mus musculus (Mouse)	482
+D3Z4T5	unreviewed	D3Z4T5_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Matk	Mus musculus (Mouse)	466
+E0CYA3	unreviewed	E0CYA3_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Ephb3	Mus musculus (Mouse)	739
+E9PUP9	unreviewed	E9PUP9_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha5	Mus musculus (Mouse)	1017
+E9PUQ0	unreviewed	E9PUQ0_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha5	Mus musculus (Mouse)	1040
+E9PUQ2	unreviewed	E9PUQ2_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha5	Mus musculus (Mouse)	1006
+E9PUQ4	unreviewed	E9PUQ4_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha5	Mus musculus (Mouse)	894
+E9Q700	unreviewed	E9Q700_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	609
+E9Q7E6	unreviewed	E9Q7E6_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Fgfr2	Mus musculus (Mouse)	608
+F6V2R5	unreviewed	F6V2R5_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Ltk	Mus musculus (Mouse)	476
+F6WVU1	unreviewed	F6WVU1_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	870
+G1K381	unreviewed	G1K381_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha6	Mus musculus (Mouse)	1130
+I6L9F0	unreviewed	I6L9F0_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Tec	Mus musculus (Mouse)	445
+I7GSQ5	unreviewed	I7GSQ5_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	860
+J3QPS3	unreviewed	J3QPS3_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	878
+K3W4P7	unreviewed	K3W4P7_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	868
+P70223	unreviewed	P70223_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	HYLTK	Mus musculus (Mouse)	465
+Q003I5	unreviewed	Q003I5_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Pdgfrb	Mus musculus (Mouse)	755
+Q05DV0	unreviewed	Q05DV0_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Lyn	Mus musculus (Mouse)	409
+Q0VBH4	unreviewed	Q0VBH4_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Srms	Mus musculus (Mouse)	507
+Q0VBP6	unreviewed	Q0VBP6_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Txk	Mus musculus (Mouse)	527
+Q0VGZ5	unreviewed	Q0VGZ5_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Ltk	Mus musculus (Mouse)	576
+Q2M2N5	unreviewed	Q2M2N5_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Matk	Mus musculus (Mouse)	331
+Q32S49	unreviewed	Q32S49_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	860
+Q32S50	unreviewed	Q32S50_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	868
+Q32SD3	unreviewed	Q32SD3_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	878
+Q32SD4	unreviewed	Q32SD4_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	893
+Q3TAT8	unreviewed	Q3TAT8_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Blk	Mus musculus (Mouse)	499
+Q3TDN4	unreviewed	Q3TDN4_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Tyk2	Mus musculus (Mouse)	1159
+Q3TH41	unreviewed	Q3TH41_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Tec	Mus musculus (Mouse)	608
+Q3TJ05	unreviewed	Q3TJ05_MOUSE	Protein kinase domain-containing protein	Fgfr1	Mus musculus (Mouse)	386
+Q3TLX4	unreviewed	Q3TLX4_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Lck	Mus musculus (Mouse)	368
+Q3TM13	unreviewed	Q3TM13_MOUSE	Protein kinase domain-containing protein	Abl1	Mus musculus (Mouse)	368
+Q3TTM4	unreviewed	Q3TTM4_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Axl	Mus musculus (Mouse)	530
+Q3TZ27	unreviewed	Q3TZ27_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Pdgfrb	Mus musculus (Mouse)	717
+Q3TZJ5	unreviewed	Q3TZJ5_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Fer Fert2	Mus musculus (Mouse)	645
+Q3U1L4	unreviewed	Q3U1L4_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Igf1r	Mus musculus (Mouse)	1173
+Q3U5G1	unreviewed	Q3U5G1_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Itk	Mus musculus (Mouse)	622
+Q3U6Q5	unreviewed	Q3U6Q5_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Lyn	Mus musculus (Mouse)	491
+Q3UKD6	unreviewed	Q3UKD6_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Src	Mus musculus (Mouse)	535
+Q3UVH2	unreviewed	Q3UVH2_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Csk	Mus musculus (Mouse)	450
+Q3UVJ3	unreviewed	Q3UVJ3_MOUSE	Tyrosine-protein kinase receptor (EC 2.7.10.1)	Igf1r	Mus musculus (Mouse)	923
+Q3V2W1	unreviewed	Q3V2W1_MOUSE	Protein kinase domain-containing protein	Abl1	Mus musculus (Mouse)	368
+Q3V2Z8	unreviewed	Q3V2Z8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)		Mus musculus (Mouse)	361
+Q497X0	unreviewed	Q497X0_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Musk	Mus musculus (Mouse)	870
+Q5DTX7	unreviewed	Q5DTX7_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha8 mKIAA1459	Mus musculus (Mouse)	855
+Q5F2B4	unreviewed	Q5F2B4_MOUSE	Tyrosine kinase, non-receptor, 1	Tnk1	Mus musculus (Mouse)	671
+Q5STT8	unreviewed	Q5STT8_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Itk	Mus musculus (Mouse)	619
+Q60669	unreviewed	Q60669_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Ephb3	Mus musculus (Mouse)	938
+Q62121	unreviewed	Q62121_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Tyro3 brt	Mus musculus (Mouse)	856
+Q6GTF2	unreviewed	Q6GTF2_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Fgr	Mus musculus (Mouse)	517
+Q6IR19	unreviewed	Q6IR19_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha1	Mus musculus (Mouse)	977
+Q6PFV6	unreviewed	Q6PFV6_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha5	Mus musculus (Mouse)	819
+Q7TMU1	unreviewed	Q7TMU1_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Btk	Mus musculus (Mouse)	659
+Q8BPC1	unreviewed	Q8BPC1_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)		Mus musculus (Mouse)	393
+Q8BQI4	unreviewed	Q8BQI4_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Srms	Mus musculus (Mouse)	393
+Q8C0E7	unreviewed	Q8C0E7_MOUSE	Protein kinase domain-containing protein	Erbb2	Mus musculus (Mouse)	881
+Q8C3U1	unreviewed	Q8C3U1_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha3	Mus musculus (Mouse)	984
+Q8C762	unreviewed	Q8C762_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Yes1 Yes	Mus musculus (Mouse)	541
+Q8C8Q7	unreviewed	Q8C8Q7_MOUSE	Receptor protein-tyrosine kinase	Ret	Mus musculus (Mouse)	795
+Q8CAW3	unreviewed	Q8CAW3_MOUSE	non-specific protein-tyrosine kinase (EC 2.7.10.2)	Itk	Mus musculus (Mouse)	347
+Q8CBP1	unreviewed	Q8CBP1_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Yes1 Yes	Mus musculus (Mouse)	541
+Q8CBY7	unreviewed	Q8CBY7_MOUSE	Protein kinase domain-containing protein	Fgfr1	Mus musculus (Mouse)	348
+Q8CEI0	unreviewed	Q8CEI0_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Lyn	Mus musculus (Mouse)	491
+Q8CFK4	unreviewed	Q8CFK4_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Tec	Mus musculus (Mouse)	608
+Q8R381	unreviewed	Q8R381_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha7	Mus musculus (Mouse)	994
+Q99KA8	unreviewed	Q99KA8_MOUSE	receptor protein-tyrosine kinase (EC 2.7.10.1)	Epha4	Mus musculus (Mouse)	927
+Q9D6H7	unreviewed	Q9D6H7_MOUSE	Tyrosine-protein kinase (EC 2.7.10.2)	Matk	Mus musculus (Mouse)	465
+A0A0J9YTQ5	unreviewed	A0A0J9YTQ5_MOUSE	Fibroblast growth factor receptor 3	Fgfr3	Mus musculus (Mouse)	260
+A0A5F8MPJ6	unreviewed	A0A5F8MPJ6_MOUSE	Tyrosine kinase, non-receptor, 2	Tnk2	Mus musculus (Mouse)	211
+A2ARN2	unreviewed	A2ARN2_MOUSE	Tyrosine kinase, non-receptor, 1	Tnk1	Mus musculus (Mouse)	268
+Q3TJU8	unreviewed	Q3TJU8_MOUSE	Protein kinase domain-containing protein	Tnk1	Mus musculus (Mouse)	434
+Q62128	unreviewed	Q62128_MOUSE	Protein-tyrosine kinase	Ephb4 Ephb2 PTK	Mus musculus (Mouse)	74
+Q62133	unreviewed	Q62133_MOUSE	Protein-tyrosine kinase	Ptpn3 ptpc1	Mus musculus (Mouse)	61
+Q8CE52	unreviewed	Q8CE52_MOUSE	Protein kinase domain-containing protein	Mertk	Mus musculus (Mouse)	411
+Q8K0I7	unreviewed	Q8K0I7_MOUSE	Jak1 protein	Jak1	Mus musculus (Mouse)	632
